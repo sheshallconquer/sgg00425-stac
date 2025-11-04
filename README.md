@@ -14,6 +14,6 @@ Follow the instructions given in the file
 ## Data
 
 This code repository is lacking all data. Please download the entire data folder called "data" and place this folder into the main folder "sgg00425-stac". Download the data here:
-The download link needs to be adjusted. Insert this: "eric_pohl_unifr_ch" where the following link states "<INSERTHERE>". This is to prevent botted downloads.
+The download link needs to be adjusted. Insert this: "eric_pohl_unifr_ch" where the following link states "INSERTHERE". This is to prevent botted downloads.
 
-https://unifrch-my.sharepoint.com/:f:/g/personal/<INSERTHERE>/Ek-aWar-91tBsNOdhSnu--ABiN52AgShUQJuz4Nn0-OOXA?e=Cdtxp0
+https://unifrch-my.sharepoint.com/:f:/g/personal/INSERTHERE/Ek-aWar-91tBsNOdhSnu--ABiN52AgShUQJuz4Nn0-OOXA?e=Cdtxp0
