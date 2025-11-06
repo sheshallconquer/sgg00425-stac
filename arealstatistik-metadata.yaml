@@ -1,0 +1,123 @@
+creation_dt: '1970-01-01 00:00:00'
+extent:
+  center_dt: '1970-01-01 00:00:00'
+  coord:
+    ll:
+      lat: 45.82175384212613
+      lon: 5.966207059122655
+    lr:
+      lat: 45.79108589748704
+      lon: 10.446990616831899
+    ul:
+      lat: 47.80590662243295
+      lon: 5.9108649240879405
+    ur:
+      lat: 47.77409903296231
+      lon: 10.55984486353902
+format:
+  name: GeoTiff
+grid_spatial:
+  projection:
+    geo_ref_points:
+      ll:
+        x: 2485500.0
+        y: 1075400.0
+      lr:
+        x: 2833800.0
+        y: 1075400.0
+      ul:
+        x: 2485500.0
+        y: 1296000.0
+      ur:
+        x: 2833800.0
+        y: 1296000.0
+    spatial_reference: PROJCS["CH1903+ / LV95",GEOGCS["CH1903+",DATUM["CH1903+",SPHEROID["Bessel
+      1841",6377397.155,299.1528128,AUTHORITY["EPSG","7004"]],AUTHORITY["EPSG","6150"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4150"]],PROJECTION["Hotine_Oblique_Mercator_Azimuth_Center"],PARAMETER["latitude_of_center",46.9524055555556],PARAMETER["longitude_of_center",7.43958333333333],PARAMETER["azimuth",90],PARAMETER["rectified_grid_angle",90],PARAMETER["scale_factor",1],PARAMETER["false_easting",2600000],PARAMETER["false_northing",1200000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","2056"]]
+id: 1826b8e6-371d-45aa-9357-b72b7b5b357d
+image:
+  bands:
+    AS09R_17:
+      path: AS09R_17.tif
+    AS09R_27:
+      path: AS09R_27.tif
+    AS09R_4:
+      path: AS09R_4.tif
+    AS09R_72:
+      path: AS09R_72.tif
+    AS18_17:
+      path: AS18_17.tif
+    AS18_27:
+      path: AS18_27.tif
+    AS18_4:
+      path: AS18_4.tif
+    AS18_72:
+      path: AS18_72.tif
+    AS85_17:
+      path: AS85_17.tif
+    AS85_27:
+      path: AS85_27.tif
+    AS85_4:
+      path: AS85_4.tif
+    AS85_72:
+      path: AS85_72.tif
+    AS97_17:
+      path: AS97_17.tif
+    AS97_27:
+      path: AS97_27.tif
+    AS97_4:
+      path: AS97_4.tif
+    AS97_72:
+      path: AS97_72.tif
+    FJ09:
+      path: FJ09.tif
+    FJ18:
+      path: FJ18.tif
+    FJ85:
+      path: FJ85.tif
+    FJ97:
+      path: FJ97.tif
+    LC09R_27:
+      path: LC09R_27.tif
+    LC09R_6:
+      path: LC09R_6.tif
+    LC18_27:
+      path: LC18_27.tif
+    LC18_6:
+      path: LC18_6.tif
+    LC85_27:
+      path: LC85_27.tif
+    LC85_6:
+      path: LC85_6.tif
+    LC97_27:
+      path: LC97_27.tif
+    LC97_6:
+      path: LC97_6.tif
+    LU09R_10:
+      path: LU09R_10.tif
+    LU09R_4:
+      path: LU09R_4.tif
+    LU09R_46:
+      path: LU09R_46.tif
+    LU18_10:
+      path: LU18_10.tif
+    LU18_4:
+      path: LU18_4.tif
+    LU18_46:
+      path: LU18_46.tif
+    LU85_10:
+      path: LU85_10.tif
+    LU85_4:
+      path: LU85_4.tif
+    LU85_46:
+      path: LU85_46.tif
+    LU97_10:
+      path: LU97_10.tif
+    LU97_4:
+      path: LU97_4.tif
+    LU97_46:
+      path: LU97_46.tif
+instrument:
+  name: aerial imagery
+platform:
+  code: OFS
+product_type: Land_Cover

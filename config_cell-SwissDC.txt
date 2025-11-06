@@ -1,17 +1,17 @@
 # Configuration
 
-product = 'arealstatistik'
-measurements = ['AS09R_27', 'AS09R_4']
-aliases = ['AS09R_27', 'AS09R_4']  # you can also provide only the aliases and get the measurements with:
+product = 'landsat_ot_c2_l2'
+measurements = ['SR_B2', 'SR_B3', 'SR_B4', 'SR_B5', 'ST_QA']
+aliases = ['blue', 'green', 'red', 'nir', 'surface_temperature_uncertainty']  # you can also provide only the aliases and get the measurements with:
 # measurements, aliases = get_alias_band(aliases)
 # to make your live easier you can manually replace the measurements variable by 
 # one of their aliases (if available):
 
-longitude = (7.127, 7.199)
-latitude = (46.773, 46.816)
+longitude = (7.511, 7.591)
+latitude = (46.314, 46.278)
 crs = 'epsg:4326'
 
-time = ('1985-01-01', '1985-01-01')
+time = ('2013-03-22', '2025-05-31')
 # the following date formats are also valid:
 # time = ('2000-01-01', '2001-12-31')
 # time=('2000-01', '2001-12')

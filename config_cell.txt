@@ -7,8 +7,8 @@ aliases = ['AS09R_27', 'AS09R_4']  # you can also provide only the aliases and g
 # to make your live easier you can manually replace the measurements variable by 
 # one of their aliases (if available):
 
-longitude = (7.127, 7.199)
-latitude = (46.773, 46.816)
+longitude = (7.511, 7.591)
+latitude = (46.314, 46.278)
 crs = 'epsg:4326'
 
 time = ('1985-01-01', '1985-01-01')
